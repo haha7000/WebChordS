@@ -1,0 +1,11 @@
+Flask==2.3.3
+opencv-python==4.5.3.56
+requests==2.26.0
+Werkzeug==2.2.3
+uuid
+json
+logging
+time
+collections==3.7.0
+gunicorn==20.1.0
+
